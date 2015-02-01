@@ -1,8 +1,7 @@
 #include <fuse-onedrive/onedrive.h>
 
-int
-main(int argc, char** argv)
+void
+onedrive_hello()
 {
   printf("Hello, World!\n");
-  return 0;
 }
